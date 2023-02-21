@@ -1,0 +1,11 @@
+{
+  "appId": "com.example.capacitor",
+  "appName": "capacitor-boilerplate",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
